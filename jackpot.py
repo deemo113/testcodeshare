@@ -11,4 +11,4 @@ def testjack(arr):
 
     return ans
 
-print(testjack(["n","n","n","n"]))
+print(testjack(["n","n","n","n","n"]))
